@@ -31,9 +31,9 @@ body {
   transform: translate(-50%, -70%);
   height: 12em;
   width: 12em;
-  border: 1em solid rgb(102, 11, 177);
+  border: 1em solid rgb(247, 148, 18);
   box-shadow: 0 0 0 .4em black,
-              0 0 0 .5em rgb(223, 16, 137),
+              0 0 0 .5em rgb(16, 30, 223),
               0 0 0 .9em black,
               0 0 0 1em white;
 
